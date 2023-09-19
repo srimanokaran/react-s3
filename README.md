@@ -1,0 +1,1 @@
+# Simple terraform code to delpoy a single page react application to a s3 bucket
